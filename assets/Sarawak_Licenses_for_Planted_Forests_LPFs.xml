@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</gmd:hierarchyLevelName>
+<gmd:contact gco:nilReason="missing"/>
+<gmd:dateStamp gco:nilReason="missing"/>
+<gmd:metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>Sarawak Licenses for Planted Forests (LPFs)</gco:CharacterString>
+</gmd:title>
+<gmd:date gco:nilReason="missing"/>
+<gmd:otherCitationDetails>
+<gco:CharacterString>Earthsight Investigations &amp; Global Witness. "Sarawak Licenses for Planted Forests". Accessed through Global Forest Watch on [date]. www.globalforestwatch.org</gco:CharacterString>
+</gmd:otherCitationDetails>
+</gmd:CI_Citation>
+</gmd:citation>
+<gmd:abstract>
+<gco:CharacterString>This data set provides the boundaries of known Licenses for Planted Forests (LPFs) within Sarawak, Malaysia. LPFs have a maximum tenure of 60 years, and must be over 1,000 hectares in size. Though they are designed for the purpose of planting of timber trees (mostly acacia), licensees are permitted to plant a portion of their licensed area with oil palm trees for a single rotation.The data set combines the boundaries of LPFs issued up to and included on the Sarawak Forestry Department (SFD) LPF map published 11th Jan 2011. Precise boundaries were sourced from regional SFD maps from 2010 and from Environmental Impact Assessment (EIA) reports for individual concessions.Licenses (and licensee subsidiaries) have been attributed to major corporate groups based on published company records and secondary sources. Where information on the areas within LPFs allotted for oil palm is available, the boundaries of these areas have been plotted and included in the separate dataset on oil palm concessions in Sarawak. Information on the permit issuance date, official total area in hectares, and plantable area in hectares for LPF licenses has been obtained directly from EIA reports or from secondary sources which have drawn on such reports. Information on area of each LPF license planted up to 2012 (where provided) has been obtained from official published reports or websites of relevant companies.It should be noted that it is common for LPF licenses to overlap with current Timber Licenses (see separate logging concession dataset for Sarawak). In such instances, LPF clearance and planting only proceeds in individual zones within the LPF when the Timber License holder has completed its own activities.</gco:CharacterString>
+</gmd:abstract>
+<gmd:purpose>
+<gco:CharacterString>Shows the distribution of Licenses for Planted Forests (generally for timber trees) in Sarawak</gco:CharacterString>
+</gmd:purpose>
+<gmd:resourceConstraints>
+<gmd:MD_Constraints>
+<gmd:useLimitation>
+<gco:CharacterString>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</gco:CharacterString>
+</gmd:useLimitation>
+</gmd:MD_Constraints>
+</gmd:resourceConstraints>
+<gmd:language gco:nilReason="missing"/>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:extent>
+<gmd:EX_Extent>
+<gmd:description>
+<gco:CharacterString>Sarawak, Malaysia</gco:CharacterString>
+</gmd:description>
+</gmd:EX_Extent>
+</gmd:extent>
+<gmd:supplementalInformation>
+<gco:CharacterString>&lt;p&gt;Timber plantation licenses issued after January 2011 are not included on this map. Licenses and boundaries which are included may also have been cancelled or amended since that date. Ownership of individual licensees may also have changed since the date when such attribution information was obtained. Official total areas and plantable areas may also have changed.&lt;/p&gt;</gco:CharacterString>
+</gmd:supplementalInformation>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+<gmd:distributionInfo>
+<gmd:MD_Distribution>
+<gmd:transferOptions>
+<gmd:MD_DigitalTransferOptions>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://gfw2-data.s3.amazonaws.com/country/mys/zip/mys_wood_fiber.zip</gmd:URL>
+</gmd:linkage>
+<gmd:name>
+<gco:CharacterString>Direct Download</gco:CharacterString>
+</gmd:name>
+<gmd:function>
+<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+</gmd:function>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+</gmd:MD_DigitalTransferOptions>
+</gmd:transferOptions>
+</gmd:MD_Distribution>
+</gmd:distributionInfo>
+<gmd:dataQualityInfo>
+<gmd:DQ_DataQuality>
+<gmd:scope gco:nilReason="missing"/>
+<gmd:lineage>
+<gmd:LI_Lineage>
+<gmd:source>
+<gmd:LI_Source>
+<gmd:description>
+<gco:CharacterString>Earthsight Investigations &amp; Global Witness</gco:CharacterString>
+</gmd:description>
+</gmd:LI_Source>
+</gmd:source>
+</gmd:LI_Lineage>
+</gmd:lineage>
+</gmd:DQ_DataQuality>
+</gmd:dataQualityInfo>
+</gmd:MD_Metadata>

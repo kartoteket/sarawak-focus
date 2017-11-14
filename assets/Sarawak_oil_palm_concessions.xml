@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</gmd:hierarchyLevelName>
+<gmd:contact gco:nilReason="missing"/>
+<gmd:dateStamp gco:nilReason="missing"/>
+<gmd:metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>Sarawak oil palm concessions</gco:CharacterString>
+</gmd:title>
+<gmd:date gco:nilReason="missing"/>
+<gmd:otherCitationDetails>
+<gco:CharacterString>SADIA, Aidenvironment &amp; Earthsight Investigations. "Sarawak oil palm concessions". Accessed through Global Forest Watch on [date]. www.globalforestwatch.org</gco:CharacterString>
+</gmd:otherCitationDetails>
+</gmd:CI_Citation>
+</gmd:citation>
+<gmd:abstract>
+<gco:CharacterString>This data set provides the boundaries of known oil palm concessions for the state of Sarawak, Malaysia, and was compiled from available public documents. Where available, associated information provided with this data set includes licensee name, permit number (Operational Ticket), corporate grouping, permit date, and official license area. This data set also includes areas under License for Planted Forest (LPF) agreements where oil palm has been planted for one rotation, where availableThe data set combines the boundaries of oil palm licenses obtained from Environmental Impact Assessment (EIA) reports for individual oil palm and LPF concessions (spanning various dates) and a regional State Forestry Department map from 2010 for northern Sarawak. The information drawn from oil palm EIA reports was compiled by Aidenvironment and SADIA, and combined with the other information by Earthsight Investigations. Licenses (and licensee subsidiaries) have been attributed to major corporate groups based on published company records and secondary sources.A number of the oil palm concession licenses are split into non-contiguous parts. In some cases separate boundary entries are given for each part; these are annotated 'Part 1' etc in the title. These 'Parts' are not official names, but rather naming conventions used in the GIS cleaning of the data.</gco:CharacterString>
+</gmd:abstract>
+<gmd:purpose>
+<gco:CharacterString>Shows the coverage of oil palm concessions in Sarawak, where information is available</gco:CharacterString>
+</gmd:purpose>
+<gmd:resourceConstraints>
+<gmd:MD_Constraints>
+<gmd:useLimitation>
+<gco:CharacterString>[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</gco:CharacterString>
+</gmd:useLimitation>
+</gmd:MD_Constraints>
+</gmd:resourceConstraints>
+<gmd:language gco:nilReason="missing"/>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:extent>
+<gmd:EX_Extent>
+<gmd:description>
+<gco:CharacterString>Sarawak, Malaysia</gco:CharacterString>
+</gmd:description>
+</gmd:EX_Extent>
+</gmd:extent>
+<gmd:supplementalInformation>
+<gco:CharacterString>&lt;p&gt;This map is known to be incomplete and some of the boundaries imprecise. Oil palm concessions which were issued or published EIAs after 2010 are not included. Boundaries drawn from EIA reports have not been mapped precisely, and so may not match with clearance and planting visible in satellite imagery. Boundaries and associated information relating to those concessions which are included may also have changed since the source information was published.&lt;/p&gt;</gco:CharacterString>
+</gmd:supplementalInformation>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+<gmd:distributionInfo>
+<gmd:MD_Distribution>
+<gmd:transferOptions>
+<gmd:MD_DigitalTransferOptions>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://gfw2-data.s3.amazonaws.com/country/mys/zip/mys_oil_palm.zip</gmd:URL>
+</gmd:linkage>
+<gmd:name>
+<gco:CharacterString>Direct Download</gco:CharacterString>
+</gmd:name>
+<gmd:function>
+<gmd:CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</gmd:CI_OnLineFunctionCode>
+</gmd:function>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+</gmd:MD_DigitalTransferOptions>
+</gmd:transferOptions>
+</gmd:MD_Distribution>
+</gmd:distributionInfo>
+<gmd:dataQualityInfo>
+<gmd:DQ_DataQuality>
+<gmd:scope gco:nilReason="missing"/>
+<gmd:lineage>
+<gmd:LI_Lineage>
+<gmd:source>
+<gmd:LI_Source>
+<gmd:description>
+<gco:CharacterString>SADIA, Aidenvironment &amp; Earthsight Investigations</gco:CharacterString>
+</gmd:description>
+</gmd:LI_Source>
+</gmd:source>
+</gmd:LI_Lineage>
+</gmd:lineage>
+</gmd:DQ_DataQuality>
+</gmd:dataQualityInfo>
+</gmd:MD_Metadata>
